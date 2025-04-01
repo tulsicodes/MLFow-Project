@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5d404ec75289463b9ff81d8d5ec6613b/artifacts
+end_time: 1743472122407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d404ec75289463b9ff81d8d5ec6613b
+run_name: capricious-elk-221
+run_uuid: 5d404ec75289463b9ff81d8d5ec6613b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743472122165
+status: 3
+tags: []
+user_id: admin

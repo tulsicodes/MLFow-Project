@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540648875401338434/6fb0e94f1dfb46c3b7b15a187ab91b48/artifacts
+end_time: 1743479340895
+entry_point_name: ''
+experiment_id: '540648875401338434'
+lifecycle_stage: active
+run_id: 6fb0e94f1dfb46c3b7b15a187ab91b48
+run_name: gregarious-colt-879
+run_uuid: 6fb0e94f1dfb46c3b7b15a187ab91b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743479332977
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ce2775c0c2bf43f487e38e5fb2ad23d9/artifacts
+end_time: 1743477149583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce2775c0c2bf43f487e38e5fb2ad23d9
+run_name: welcoming-snail-525
+run_uuid: ce2775c0c2bf43f487e38e5fb2ad23d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743477148678
+status: 3
+tags: []
+user_id: admin

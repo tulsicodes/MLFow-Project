@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2264cf1720a1425687def48510d1f95f/artifacts
+end_time: 1743477300251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2264cf1720a1425687def48510d1f95f
+run_name: respected-skink-604
+run_uuid: 2264cf1720a1425687def48510d1f95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743477299392
+status: 3
+tags: []
+user_id: admin
